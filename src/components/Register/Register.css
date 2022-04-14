@@ -1,0 +1,19 @@
+.container-from {
+    width: 500px;
+    height: 500px;
+    border: 1px solid #95A0A7;
+    box-sizing: border-box;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.social-divider {
+    width: 40%;
+    border-bottom: 2px solid rgb(236, 48, 120);
+    line-height: 0.1em;
+    margin-left: 4%;
+    margin-right: 4%;
+}
